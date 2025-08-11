@@ -1,3 +1,10 @@
+<img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/5649cc74-8bd9-482f-828f-1bf0f5a294b5" />
+
+Project Title: Capstone Project Milestone Submission
+Prepared by: Sona Shakoory
+Program: MIT Professional Education – Applied Data Science & Generative AI
+Practical Data Science: Loan Default Prediction
+
 Context
 
 A major proportion of retail bank profit comes from interests in the form of home loans. These loans
